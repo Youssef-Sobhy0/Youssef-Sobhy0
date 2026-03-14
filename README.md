@@ -16,8 +16,9 @@
 
 - 🌱 &nbsp; I’m actively enhancing my skills and expertise in **Software Engineering** and **Competitive Programming**.
 - 🏫 &nbsp; **Education**: Cairo University, Faculty of Computers and Artificial Intelligence.
-- 🎯 &nbsp; **Programming Enthusiast**: Solved more than 2000 problems on top competitive programming platforms.
+- 🎯 &nbsp; **Programming Enthusiast**: Solved more than 3000 problems on top competitive programming platforms.
 - 🌍 &nbsp; **Competitive Programming**:
+- 🎯 &nbsp; ECPC 2025: 11th place in qualifications and advanced to finals (25th out of 370+ teams) and advanced to the ACPC Finals.
 - 🎯 &nbsp; ECPC 2024: 20rd place in qualifications and advanced to finals (94th out of 370+ teams).
 -  &nbsp; Passionate about crafting maintainable code and improving backend performance  
 - 🛠️ &nbsp; Building side projects to apply clean architecture, messaging, and caching patterns  
