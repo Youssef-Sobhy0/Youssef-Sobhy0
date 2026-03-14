@@ -20,7 +20,7 @@
 - 🌍 &nbsp; **Competitive Programming**:
 - 🎯 &nbsp; ECPC 2025: 11th place in qualifications and advanced to finals (25th out of 370+ teams) and advanced to the ACPC Finals.
 - 🎯 &nbsp; ECPC 2024: 20rd place in qualifications and advanced to finals (94th out of 370+ teams).
--  &nbsp; Passionate about crafting maintainable code and improving backend performance  
+- 🎯 &nbsp; Passionate about crafting maintainable code and improving backend performance  
 - 🛠️ &nbsp; Building side projects to apply clean architecture, messaging, and caching patterns  
 - 🤝 &nbsp; I enjoy collaborating with teams that push each other to grow, write better code, and design smarter architectures  
 - ☕ &nbsp; A cup of coffee is the best code debugger for the mind  
