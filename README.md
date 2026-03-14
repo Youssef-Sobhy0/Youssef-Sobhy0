@@ -30,7 +30,7 @@
   
 ### Contact with Me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/mo-sobhy/](https://www.linkedin.com/in/youssef-sobhy-a1b457340?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5g%2Fi%2FtUKSHmr6Y18T%2BjFBg%3D%3D))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/youssef-sobhy-a29916357/])
 [![M](https://img.shields.io/badge/Email-M-red.svg)](mailto:youseef.sobhy30@gmail.com)
 
   <br />  
