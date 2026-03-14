@@ -30,8 +30,9 @@
   
 ### Contact with Me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/youssef-sobhy-a29916357/])
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-sobhy-a29916357/)
 [![M](https://img.shields.io/badge/Email-M-red.svg)](mailto:youseef.sobhy30@gmail.com)
+
 
   <br />  
 
